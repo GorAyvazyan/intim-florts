@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/intim-florts/static/css/main.17ae6769.css",
+    "main.js": "/intim-florts/static/js/main.9dfff05f.js",
+    "static/js/787.967b4e13.chunk.js": "/intim-florts/static/js/787.967b4e13.chunk.js",
+    "static/media/background-frame.png": "/intim-florts/static/media/background-frame.0db1272c98be1aa8bf13.png",
+    "static/media/PublicSans-Regular.ttf": "/intim-florts/static/media/PublicSans-Regular.9a9990ce94ae3c2a975b.ttf",
+    "static/media/female.svg": "/intim-florts/static/media/female.6ef6b504fec357bfc401a936cc5c9ac1.svg",
+    "index.html": "/intim-florts/index.html",
+    "main.17ae6769.css.map": "/intim-florts/static/css/main.17ae6769.css.map",
+    "main.9dfff05f.js.map": "/intim-florts/static/js/main.9dfff05f.js.map",
+    "787.967b4e13.chunk.js.map": "/intim-florts/static/js/787.967b4e13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ae6769.css",
+    "static/js/main.9dfff05f.js"
+  ]
+}
