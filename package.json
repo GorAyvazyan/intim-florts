@@ -1,6 +1,7 @@
 {
-  "name": "task-app",
-  "version": "0.1.0",
+  "name": "intim-florts",
+  "version": "0.1.6",
+  "homepage": "https://gorayvazyan.github.io/intim-florts",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -33,6 +34,8 @@
     "yup": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -74,6 +77,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "gh-pages": "^5.0.0",
     "prettier": "^2.8.7"
   }
 }
